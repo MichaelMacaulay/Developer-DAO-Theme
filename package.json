@@ -1,0 +1,39 @@
+{
+    "name": "dev-dao-theme",
+    "displayName": "DeveloperDAO Theme",
+    "description": "VS Code theme for Web3 Builders.",
+    "version": "1.0.0",
+    "publisher": "Michael-Macaulay",
+    "icon": "profile-square-150px.jpg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MichaelMacaulay/Developer-DAO-Theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "DeveloperDAO",
+        "DevDAO",
+        "Ethereum theme",
+        "Ethereum",
+        "BUIDLER",
+        "web3",
+        "blockchain",
+        "DAO"
+    ],
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ethereum Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ethereum Theme-color-theme.json"
+            }
+        ]
+    }
+}
