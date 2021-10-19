@@ -5,14 +5,14 @@ Inspired by the [DeveloperDAO](https://github.com/Developer-DAO) and all the awe
 
 ## Screenshots
 
-### Solidity
-
-![Solidity screenshot](https://raw.githubusercontent.com/MichaelMacaulay/Developer-DAO-Theme/main/pics/solidity.PNG)
-
 ### JavaScript
 
 ![JavaScript screenshot](https://raw.githubusercontent.com/MichaelMacaulay/Developer-DAO-Theme/main/pics/js.PNG)
 
-### JSON
+### HTML
 
-![JavaScript screenshot](https://raw.githubusercontent.com/MichaelMacaulay/Developer-DAO-Theme/main/pics/json.PNG)
+![HTML screenshot](https://raw.githubusercontent.com/MichaelMacaulay/Developer-DAO-Theme/main/pics/html.PNG)
+
+### Solidity
+
+![Solidity screenshot](https://raw.githubusercontent.com/MichaelMacaulay/Developer-DAO-Theme/main/pics/sol.PNG)
