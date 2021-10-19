@@ -107,7 +107,7 @@
 		"notifications.background": "#0e0d1a",
 		"notifications.foreground": "#e76f51",
 		"panel.background": "#0e0d1a",
-		"panel.border": "#0e0d1a",
+		"panel.border": "#979797",
 		"panelTitle.activeBorder": "#e76f51",
 		"panelTitle.activeForeground": "#ffffff",
 		"panelTitle.inactiveForeground": "#e76f51",
