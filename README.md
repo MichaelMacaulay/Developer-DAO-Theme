@@ -11,7 +11,7 @@ Inspired by the [DeveloperDAO](https://github.com/Developer-DAO) and all the awe
 
 ### JavaScript
 
-![JavaScript screenshot](https://github.com/MichaelMacaulay/Developer-DAO-Theme/blob/main/pics/js.PNG)
+![JavaScript screenshot](https://raw.githubusercontent.com/MichaelMacaulay/Developer-DAO-Theme/main/pics/js.PNG)
 
 ### JSON
 
